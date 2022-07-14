@@ -5,11 +5,11 @@
 * [About](https://github.com/shahadalboti/FirstTask#about-this-repository-)  
 * Task1:
   
-   -[Task1.1: website convert Arabic speech to text ](https://github.com/shahadalboti/FristTask#task1-) 
+   -[Task1.1: website convert Arabic speech to text ](https://github.com/shahadalboti/FirstTask#task1-) 
   
-   -[Task1.2:  ESP32 algorthim ](https://github.com/shahadalboti/FristTask#task1-) 
+   -[Task1.2:  ESP32 algorthim ](https://github.com/shahadalboti/FirstTask#task1-) 
   
-* [Resources](https://github.com/shahadalboti/FristTask#resources-)  
+* [Resources](https://github.com/shahadalboti/FirstTask#resources-)  
 
 ## About this repository ❓:
 This repository for the first task in the summer training which is about creating a website that convert speech to text and the algorithm of wisdom ESP32.
