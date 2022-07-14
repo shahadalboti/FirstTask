@@ -16,7 +16,7 @@ This repository for the first task in the summer training which is about creatin
 
 ## Task1 :
 ## Task 1.1:
-A website that resive speech from the user then convert it into text which is also allow you to select the accent of the resived speech.It is implemented by using 
+A website that receive speech from the user then convert it into text which is also allow you to select the accent of the received speech.It is implemented by using
 
 ### web devolopment languages : 
 
