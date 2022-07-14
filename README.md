@@ -1,4 +1,4 @@
-# Summer traning
+# Summer training
 # FirstTask
 
 #### Table of Contents  
