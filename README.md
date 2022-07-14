@@ -7,7 +7,7 @@
   
    -[Task1.1: website convert Arabic speech to text ](https://github.com/shahadalboti/FirstTask#task1-) 
   
-   -[Task1.2: Wisdome ESP32 algorthim ](https://github.com/shahadalboti/FirstTask#task1-) 
+   -[Task1.2: Wisdom ESP32 algorthim ](https://github.com/shahadalboti/FirstTask#task1-) 
   
 * [Resources](https://github.com/shahadalboti/FirstTask#resources-)  
 
